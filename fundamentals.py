@@ -11,3 +11,8 @@ is_published = True # boolean
 greeting = 'Hello World'
 print(greeting [4:-4])
 # : sign is used as an equivalent of up to and the - sign is used to serve as a slice method for characters in a string
+
+  ## escape sequences
+print("Python \" Programming")
+print("Use double backlash to avoid escaping with one \\")
+print('I will show you how to move to the next line here \n This is a new line')
